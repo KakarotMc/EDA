@@ -39,8 +39,8 @@ The EDA projects in this repository utilize popular Python libraries, including 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/EDA-Repository.git
-   cd EDA-Repository
+   git clone https://github.com/yourusername/EDA.git
+   cd EDA
    ```
 
 2. **Browse the EDA files:**
