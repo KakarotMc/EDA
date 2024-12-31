@@ -20,8 +20,7 @@ Each EDA file is self-contained and provides detailed explanations of the steps 
 EDA-Repository/
 │
 ├── eda_files/         # Contains individual EDA files (notebooks or scripts)
-├── datasets/          # Raw and processed datasets
-├── visualizations/    # Output images and charts
+├── datasets links -   # https://drive.google.com/drive/folders/1ItTRLPmNcnEENo6-M3tRfWsdBgvXz_4T?usp=sharing
 └── README.md          # Project documentation (this file)
 ```
 
