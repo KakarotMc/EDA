@@ -15,18 +15,10 @@ Each EDA file is self-contained and provides detailed explanations of the steps 
 
 ---
 
-## 🗂️ Repository Structure
-```
-EDA-Repository/
-│
-├── eda_files/         # Contains individual EDA files (notebooks or scripts)
-├── datasets links -   # https://drive.google.com/drive/folders/1ItTRLPmNcnEENo6-M3tRfWsdBgvXz_4T?usp=sharing
-└── README.md          # Project documentation (this file)
-```
-
 ### EDA Files
 - Each EDA file is named descriptively based on the dataset or analysis performed.
-- Example: `titanic_survival_analysis.ipynb`, `housing_prices_eda.py`, etc.
+- Example: `EDA Google play.ipynb` etc.
+- You can all the Datasets on this link. - https://drive.google.com/drive/folders/1ItTRLPmNcnEENo6-M3tRfWsdBgvXz_4T?usp=sharing
 
 ---
 
@@ -39,6 +31,7 @@ The EDA projects in this repository utilize popular Python libraries, including 
 - **Matplotlib**: Basic plotting and visualizations.
 - **Seaborn**: Advanced statistical plots.
 - **Plotly**: Interactive visualizations (optional).
+- **Scikit-learn**: Machine learning tools and preprocessing utilities.
 
 ---
 
