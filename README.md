@@ -18,7 +18,7 @@ Each EDA file is self-contained and provides detailed explanations of the steps 
 ### EDA Files
 - Each EDA file is named descriptively based on the dataset or analysis performed.
 - Example: `EDA Google play.ipynb` etc.
-- You can all the Datasets on this link. - https://drive.google.com/drive/folders/1ItTRLPmNcnEENo6-M3tRfWsdBgvXz_4T?usp=sharing
+- You can access all the Datasets on this link. - https://drive.google.com/drive/folders/1ItTRLPmNcnEENo6-M3tRfWsdBgvXz_4T?usp=sharing
 
 ---
 
